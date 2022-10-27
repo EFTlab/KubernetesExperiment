@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "rust-k8s-s1/build/app-code"
+		},
+		{
+			"path": "rust-k8s-s2/build/app-code"
+		}
+	],
+  "settings": {}
+}
